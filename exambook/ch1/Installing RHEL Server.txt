@@ -1,0 +1,4 @@
+- Install GUI or non-GUI
+- Hostname
+- Storage
+- network on
