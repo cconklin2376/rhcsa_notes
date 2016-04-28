@@ -1,0 +1,51 @@
+
+
+Reset root password
+
+Setup a repo from an ftp share
+
+Add space to an existing logical group
+
+Create a logical volume group
+
+Add swap space from an lvm
+
+Config ldap client
+
+Configure an nfs share using autofs
+
+Add an nfs share to fstab
+
+Search for a file
+
+Grep for instances of a string in a file and extract those into another file
+
+Create some users 
+
+Put users in groups
+
+Set guid 
+
+Use ssh-keygen and ssh-copy-id
+
+yum provides */binary name
+
+Edit grub and run grub2-mkconfig > /boot/grub2/grub.cfg
+
+Renice something 
+
+Isolate systemd targets with - systemctl isolate graphical.target
+
+Set specific acls for groups on dirs - remember once for default and once for specific
+
+Perform chmod, chown some stuff
+
+Use nmtui to config network - remember the /24 if needed!
+
+Get chrony or ntp up and running with specific ips - remember to use chrony or ntpd but not both!
+
+Remember all of those services you just comfigured? Now make sure they start automatically - systemctl enable chrony 
+
+SELinux contexts
+
+
